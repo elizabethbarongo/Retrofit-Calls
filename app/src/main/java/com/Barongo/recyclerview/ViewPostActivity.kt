@@ -37,7 +37,7 @@ class ViewPostActivity : AppCompatActivity() {
             postId = intent.extras!!.getInt("POST_ID")
         }
 
-        // Setup RecyclerView
+
         val rvComments = findViewById<RecyclerView>(R.id.rvComments)
         commentsAdapter = CommentsRvAdapter(listOf())
         rvComments.adapter = commentsAdapter
