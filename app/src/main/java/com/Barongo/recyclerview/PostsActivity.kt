@@ -9,7 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.mildred.recyclerview.PostsRvAdapter
-import com.mildred.recyclerview.R
+import com.Barongo.recyclerview.R
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

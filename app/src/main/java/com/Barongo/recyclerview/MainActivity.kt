@@ -7,7 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.mildred.recyclerview.R
+import com.Barongo.recyclerview.R
 
 
 class MainActivity : AppCompatActivity() {

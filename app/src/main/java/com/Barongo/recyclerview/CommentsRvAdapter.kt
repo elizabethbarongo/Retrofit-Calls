@@ -4,7 +4,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.mildred.recyclerview.R
+import com.Barongo.recyclerview.R
 
 
 class CommentsRvAdapter(var comments: List<Comment>) : RecyclerView.Adapter<CommentViewHolder>() {

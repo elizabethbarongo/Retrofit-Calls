@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mildred.recyclerview"
+    namespace = "com.Barongo.recyclerview"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.mildred.recyclerview"
+        applicationId = "com.Barongo.recyclerview"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

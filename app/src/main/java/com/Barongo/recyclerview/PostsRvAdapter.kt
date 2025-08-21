@@ -10,6 +10,7 @@ import androidx.appcompat.view.menu.MenuView.ItemView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.Barongo.recyclerview.Post
+import com.Barongo.recyclerview.R
 
 class PostsRvAdapter(val context:Context, var posts:List<Post>):RecyclerView.Adapter<PostsViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PostsViewHolder {

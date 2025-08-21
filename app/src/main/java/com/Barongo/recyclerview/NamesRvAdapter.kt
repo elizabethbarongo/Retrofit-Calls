@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.mildred.recyclerview.R
+import com.Barongo.recyclerview.R
 
 class NamesRvAdapter(val names: List<String>):RecyclerView.Adapter<NamesViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NamesViewHolder {
