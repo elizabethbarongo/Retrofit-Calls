@@ -1,4 +1,4 @@
-package com.mildred.recyclerview
+package com.Barongo.recyclerview
 
 import android.os.Bundle
 import android.widget.TextView
